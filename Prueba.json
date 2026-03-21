@@ -1,0 +1,169 @@
+{
+  "numBars": 1,
+  "tempoBPM": 120,
+  "barNames": [
+    [
+      0,
+      "Compás 1"
+    ]
+  ],
+  "beatSubdivisions": [
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "instrumentVolumes": [
+    {
+      "id": "surdo1",
+      "volume": 70
+    },
+    {
+      "id": "surdo2",
+      "volume": 70
+    },
+    {
+      "id": "dobra",
+      "volume": 70
+    },
+    {
+      "id": "repenique",
+      "volume": 70
+    },
+    {
+      "id": "caja",
+      "volume": 70
+    },
+    {
+      "id": "timba",
+      "volume": 70
+    },
+    {
+      "id": "sonaja",
+      "volume": 70
+    },
+    {
+      "id": "voz",
+      "volume": 70
+    },
+    {
+      "id": "coro",
+      "volume": 70
+    },
+    {
+      "id": "coro2",
+      "volume": 70
+    },
+    {
+      "id": "notas",
+      "volume": 70
+    }
+  ],
+  "showBallStates": [
+    {
+      "id": "surdo1",
+      "showBall": false
+    },
+    {
+      "id": "surdo2",
+      "showBall": false
+    },
+    {
+      "id": "dobra",
+      "showBall": false
+    },
+    {
+      "id": "repenique",
+      "showBall": false
+    },
+    {
+      "id": "caja",
+      "showBall": false
+    },
+    {
+      "id": "timba",
+      "showBall": false
+    },
+    {
+      "id": "sonaja",
+      "showBall": false
+    },
+    {
+      "id": "voz",
+      "showBall": false
+    },
+    {
+      "id": "coro",
+      "showBall": false
+    },
+    {
+      "id": "coro2",
+      "showBall": false
+    }
+  ],
+  "gridState": {
+    "surdo1": [
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "surdo2": [
+      [
+        4,
+        1
+      ],
+      [
+        12,
+        1
+      ]
+    ],
+    "dobra": [
+      [
+        2,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        11,
+        1
+      ]
+    ],
+    "repenique": [
+      [
+        3,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "caja": [],
+    "timba": [],
+    "sonaja": [],
+    "voz": [],
+    "coro": [],
+    "coro2": [],
+    "notas": []
+  }
+}
